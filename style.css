@@ -1,0 +1,26 @@
+*{
+    background-color: #e8e9e2;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-content: stretch;
+    align-items: flex-end;
+    margin: 1px;
+}
+#home{
+    display: inline-block;
+}
+#study{
+    display: inline-block;
+}
+#content{
+    display: inline-block;
+}
+#ref{
+    display: inline-block;
+}
+#about{
+    display: inline-block;
+}
